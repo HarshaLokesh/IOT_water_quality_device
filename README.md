@@ -9,3 +9,9 @@ The project was built in order to help in the development of the water quality a
 <img src="https://github.com/HarshaLokesh/IOT_water_quality_device/blob/main/Device_images/IMG_20211108_085628.jpg" title="IOT device"  width="600" height="400">
 
 <img src="https://github.com/HarshaLokesh/IOT_water_quality_device/blob/main/Device_images/IMG_20211108_092627.jpg" title="Nodemcu iot wifi transmitter" width="400">
+
+## Machine learning models
+
+The data optained is used to predict the rfu value of phycocanin to determine/predict if algae bloom will happen and help take preventive measures. The model is trained using available datasets.
+
+Dataset Link:- https://www.epa.gov/charlesriver/live-water-quality-data-lower-charles-river
