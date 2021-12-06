@@ -12,6 +12,6 @@ The project was built in order to help in the development of the water quality a
 
 ## Machine learning models
 
-The data optained is used to predict the rfu value of phycocanin to determine/predict if algae bloom will happen and help take preventive measures. The model is trained using available datasets.
+The data optained is used to predict the rfu value of phycocanin to determine/predict if algae bloom will happen and help take preventive measures. The model is trained using available datasets. KNN and adaboost algorthims are used to train the model.
 
 Dataset Link:- https://www.epa.gov/charlesriver/live-water-quality-data-lower-charles-river
